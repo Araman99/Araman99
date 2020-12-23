@@ -60,7 +60,7 @@
 </details>
 
 
-[instagram]: https://www.instagram.com/a.r.hasan/
-[linkedin]: https://www.linkedin.com/in/ar-hasan/
-[portfolio]: http://arhasan.unaux.com
+[instagram]: https://www.instagram.com/a.r_aman/
+[linkedin]: https://www.linkedin.com/in/ar-aman/
+[portfolio]: https://araman.netlify.app
 [gmail]: http://aramancse@gmail.com
