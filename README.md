@@ -3,7 +3,7 @@
 
 ## 👨‍💻 I'm Amanur Rahman (Aman) 
 
- <img alignItem="right" alt="GIF" src="./img/ezgif.com-gif-maker (1).gif" width="500" height="320" />
+ <img alignItem="right" alt="GIF" src="./img/ar_aman.gif" width="500" height="320" />
 
 
 ## I'm a Developer, learner, Creator, and Mentor!
